@@ -1,9 +1,6 @@
 myenv/
 venv/
 .venv/
-data/reference/*
-data/processed/*
-data/raw/*
 models/*
 __pycache__/
 *.pyc
